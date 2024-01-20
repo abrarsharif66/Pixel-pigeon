@@ -8,7 +8,7 @@ Pixel Pigeon is a cutting-edge Photography Event Management and Automated Photo 
   - Swift and automated delivery of event photos to individuals captured during an event.
 
 - **Client-Side Photo Upload:**
-  - Users can easily upload their photos, names, and contact details (email or WhatsApp number) using a QR code generated from the website.
+  - Users can easily upload their photos, names, and contact details (email).
 
 - **Machine Learning Image Labeling:**
   - Utilizes a powerful machine learning algorithm to automatically label and recognize images, improving the overall efficiency of photo management.
